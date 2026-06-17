@@ -55,3 +55,19 @@ p {
     margin-bottom: 20px;
     color: #666;
 }
+.cadastro-texto {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 14px;
+    color: #333;
+}
+
+.cadastro-texto a {
+    color: #0066cc;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.cadastro-texto a:hover {
+    text-decoration: underline;
+}
