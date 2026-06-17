@@ -6,6 +6,7 @@ body {
     min-height: 100vh;
     margin: 0;
     font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
 }
 .logo {
     margin-bottom: 1rem;
@@ -22,11 +23,18 @@ body {
 form {
     display: flex;
     flex-direction: column;
-    max-width: 300px;
+    width: 100%;
+    max-width: 320px;
     gap: 10px;
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
 }
 label{
     font-weight: bold
+    font-size: 16px;
 }
 
 h1 {
