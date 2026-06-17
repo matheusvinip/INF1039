@@ -1,5 +1,5 @@
 body{
-
+}
 .logo {
     margin-bottom: 1rem;
     display: flex;
@@ -12,4 +12,9 @@ body{
     height: auto;
     display: block;
 }
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    gap: 10px;
 }
