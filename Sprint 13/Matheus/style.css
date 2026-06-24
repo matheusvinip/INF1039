@@ -11,3 +11,11 @@ body {
     height: 100vh;
     color: #202124;
 }
+.header {
+    background-color: #ffffff;
+    padding: 16px 24px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    border-bottom: 1px solid #f1f3f4;
+}
