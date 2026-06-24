@@ -19,3 +19,12 @@ body {
     gap: 12px;
     border-bottom: 1px solid #f1f3f4;
 }
+.icon-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #5f6368;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
