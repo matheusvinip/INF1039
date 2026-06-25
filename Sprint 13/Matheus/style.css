@@ -87,3 +87,18 @@ body {
     flex-wrap: wrap;
     justify-content: center;
 }
+.suggestion-chip {
+    background-color: #ffffff;
+    border: 1px solid #dadce0;
+    border-radius: 24px;
+    padding: 12px 24px;
+    color: #5f6368;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 0.2s, border-color 0.2s;
+}
+
+.suggestion-chip:hover {
+    background-color: #f1f3f4;
+    border-color: #d5d5d5;
+}
