@@ -69,3 +69,21 @@ body {
     color: #1a73e8;
     font-size: 36px;
 }
+.greeting {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+.subtitle {
+    color: #5f6368;
+    font-size: 15px;
+    margin-bottom: 32px;
+}
+
+.suggestions {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
