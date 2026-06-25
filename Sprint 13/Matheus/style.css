@@ -54,3 +54,18 @@ body {
     padding: 24px;
     text-align: center;
 }
+.robot-icon-container {
+    background-color: #e8effd;
+    width: 64px;
+    height: 64px;
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 24px;
+}
+
+.main-robot {
+    color: #1a73e8;
+    font-size: 36px;
+}
